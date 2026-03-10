@@ -41,8 +41,11 @@ https://github.com/marwanepro
 
 ---
 
-## Project Structure
+##  Project Architecture
 
+The project follows a modular React architecture.
+
+```
 marwane-portfolio
 │
 ├── public
@@ -62,8 +65,6 @@ marwane-portfolio
 │   │   ├── About.jsx
 │   │   ├── Skills.jsx
 │   │   ├── Projects.jsx
-│   │   ├── Education.jsx
-│   │   ├── Blog.jsx
 │   │   └── Contact.jsx
 │
 │   ├── data
@@ -77,8 +78,9 @@ marwane-portfolio
 │   └── main.jsx
 │
 └── package.json
+```
 
-This structure improves code readability and scalability.
+This structure improves **code readability and scalability**.
 
 
 ---
@@ -129,5 +131,6 @@ This portfolio can be deployed using:
 ## Final Note
 
 This portfolio represents my journey as a software engineering student and my passion for building impactful software solutions.
+
 
 **© 2026 — Marwane EL ABBADI**
